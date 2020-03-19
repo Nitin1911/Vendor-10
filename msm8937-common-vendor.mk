@@ -61,12 +61,14 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8937-common/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/asus/msm8937-common/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdavenhancements.so:system/lib/libwfdavenhancements.so \
+    vendor/asus/msm8937-common/proprietary/lib/libwfdclient.so:system/lib/libwfdclient.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdcodecv4l2.so:system/lib/libwfdcodecv4l2.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdcommonutils.so:system/lib/libwfdcommonutils.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdconfigutils.so:system/lib/libwfdconfigutils.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdmminterface.so:system/lib/libwfdmminterface.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdmmsink.so:system/lib/libwfdmmsink.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdmmsrc.so:system/lib/libwfdmmsrc.so \
+    vendor/asus/msm8937-common/proprietary/lib/libwfdnative.so:system/lib/libwfdnative.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdrtsp.so:system/lib/libwfdrtsp.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdservice.so:system/lib/libwfdservice.so \
     vendor/asus/msm8937-common/proprietary/lib/libwfdsm.so:system/lib/libwfdsm.so \
@@ -507,6 +509,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8937-common/proprietary/vendor/lib64/libulp2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libulp2.so \
     vendor/asus/msm8937-common/proprietary/vendor/lib64/libvpplibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpplibrary.so \
     vendor/asus/msm8937-common/proprietary/vendor/lib64/libvpptestutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpptestutils.so \
+    vendor/asus/msm8937-common/proprietary/vendor/lib64/libwfdhdcpcp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwfdhdcpcp.so \
     vendor/asus/msm8937-common/proprietary/vendor/lib64/libwms.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwms.so \
     vendor/asus/msm8937-common/proprietary/vendor/lib64/libwqe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwqe.so \
     vendor/asus/msm8937-common/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
