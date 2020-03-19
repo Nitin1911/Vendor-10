@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8937-common/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
     vendor/asus/msm8937-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/asus/msm8937-common/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
+    vendor/asus/msm8937-common/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/asus/msm8937-common/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:system/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/asus/msm8937-common/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
     vendor/asus/msm8937-common/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
@@ -64,6 +65,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8937-common/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
     vendor/asus/msm8937-common/proprietary/lib64/lib-imsvtextutils.so:system/lib64/lib-imsvtextutils.so \
     vendor/asus/msm8937-common/proprietary/lib64/lib-imsvtutils.so:system/lib64/lib-imsvtutils.so \
+    vendor/asus/msm8937-common/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/asus/msm8937-common/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/asus/msm8937-common/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
     vendor/asus/msm8937-common/proprietary/lib64/libdpmfdmgr.so:system/lib64/libdpmfdmgr.so \
